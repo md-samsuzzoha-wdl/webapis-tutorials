@@ -26,5 +26,3 @@ WebRTC (Web Real-Time Communication) is a technology that enables peer-to-peer c
 
 WebRTC is powerful because it allows for direct, real-time communication without relying heavily on external servers, making it efficient and fast.
 
-
-- https://www.youtube.com/watch?v=ZDiQWv-hjtw
